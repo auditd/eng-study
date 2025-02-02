@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+python-multipart
+Jinja2
+sounddevice
+soundfile
+numpy
+wave
+itsdangerous
+websockets
+wsproto
+uvicorn[standard]
+
+# Google Cloud Text-to-Speech (옵션 - 필요 시 주석 해제)
+google-cloud-texttospeech
+
+# (가정) Gemini API 클라이언트 (실제 Gemini API 출시 후, 주석 해제 및 수정 필요)
+google-generativeai
